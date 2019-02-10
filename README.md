@@ -2,7 +2,8 @@
 
 ![The Loss Landscape](https://github.com/javismiles/Deep-Learning-predicting-breast-cancer-tumor-malignancy/blob/master/images/loss-landscape-deep-learning-animation-cover2.gif?raw=true)
 
-Welcome. **This repository will hold the Python code and notebook of this project once the articles have been published.** Stay tuned for news very shortly.
+**Access the code with this link<br>
+<a href="https://github.com/javismiles/Deep-Learning-predicting-breast-cancer-tumor-malignancy/blob/master/nn-2l-raw.ipynb" target="_blank">Python Jupyter Notebook</a>**
 
 With this code and the associated articles, you are going to:
 
