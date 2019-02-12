@@ -1,4 +1,4 @@
-name: deoldify
+name: nn-predict-malignancy
 channels:
 - fastai
 - pytorch
